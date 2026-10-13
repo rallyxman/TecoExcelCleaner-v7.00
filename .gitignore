@@ -1,0 +1,11 @@
+# Logs
+*Logs/
+*.log
+
+# Windows PowerShell temporary files
+*.ps1xml
+*.psc1
+*.pso
+
+# Processed output files
+*_cleaned.xlsx
